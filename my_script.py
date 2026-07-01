@@ -1,15 +1,11 @@
-
-def main() -> None:
-    print("Start coding in Python today!")
-    
-
-
 from turtle import *
 import colorsys
+
 speed(0)
 bgcolor('black')
 h = 0
-for i in range (16):
+
+for i in range(16):
     for j in range(18):
         c = colorsys.hsv_to_rgb(h, 1, 1)
         color(c)
@@ -21,5 +17,5 @@ for i in range (16):
         rt(180)
         circle(40, 2.5)
 
- if __name__ == "__main__":
-     main()
+done()
+
