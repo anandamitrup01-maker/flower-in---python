@@ -12,3 +12,12 @@ A creative Python Turtle Graphics project that generates a colorful animated geo
 Python
 Turtle Graphics
 Colorsys
+
+
+
+
+# Rainbow Turtle Spiral 🌈
+
+<img src="jYNa6.gif" alt="Rainbow Turtle Animation" width="700">
+
+Start coding in Python today!
