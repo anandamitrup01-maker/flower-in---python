@@ -21,5 +21,5 @@ for i in range (16):
         rt(180)
         circle(40, 2.5)
 
-# if __name__ == "__main__":
-    # main()
+ if __name__ == "__main__":
+     main()
